@@ -1,0 +1,7 @@
+print("#########################")
+print("#  Akhmad Raihan Ridha  #")
+print("#                       #")
+print("#    2210817110001      #")
+print("#                       #")
+print("#                       #")
+print("#########################")
